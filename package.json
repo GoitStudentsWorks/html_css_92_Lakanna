@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/bestteam-ourteam/",
+    "build": "vite build --base=/html_css_92_Lakanna/",
     "preview": "vite preview"
   },
   "devDependencies": {
